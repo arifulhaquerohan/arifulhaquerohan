@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/signal-room.svg" width="100%" alt="Ariful Haque Rohan — Engineering Atlas. Thoughtful interfaces. Dependable systems. Software engineer in Dhaka, Bangladesh." />
+  <img src="./assets/signal-room.svg" width="100%" alt="Ariful Haque Rohan — System Archive. Software engineer in Dhaka. Behind every interface, a system." />
   <br /><br />
   <a href="https://github.com/arifulhaquerohan?tab=repositories"><strong>Explore my code ↗</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
@@ -8,7 +8,7 @@
 
 <br />
 
-### 01 / The person behind the code
+### `00` / Human behind the system
 
 I'm **Ariful Haque Rohan**, a software engineer based in **Dhaka, Bangladesh**. I build across the stack, with a particular interest in the work behind the interface: APIs, data models, and systems that make a product useful.
 
@@ -19,7 +19,11 @@ My toolkit centers on **Python, Django, and PostgreSQL**, with **React and Next.
 
 <br />
 
-### 02 / Selected work
+<img src="./assets/timeline.svg" width="100%" alt="Timeline: B.Sc. CSE at BUBT; developer at Bangla Sketch since 2025; exploration in weather research and practical tools." />
+
+<br />
+
+### `01` / Project archive
 
 #### Bangla Sketch ↗
 **Business software for an interior design workflow.**
@@ -51,7 +55,7 @@ A study of **3,271 weather records from 2013–2022**, covering rainfall classif
 
 <br />
 
-### 03 / Working toolkit
+### `02` / Loaded modules
 
 | Layer | Tools |
 | :--- | :--- |
@@ -63,7 +67,7 @@ A study of **3,271 weather records from 2013–2022**, covering rainfall classif
 
 <br />
 
-### 04 / Let's connect
+### `03` / Open a channel
 
 Have a project involving backend systems, a full-stack product, or an interesting dataset? I'd be glad to talk.
 
@@ -71,4 +75,4 @@ Have a project involving backend systems, a full-stack product, or an interestin
 
 <br />
 
-<img src="./assets/footer.svg" width="100%" alt="From Dhaka, with intent. Build thoughtfully. Keep learning." />
+<img src="./assets/footer.svg" width="100%" alt="Built in Dhaka. Always learning. Rohan." />
