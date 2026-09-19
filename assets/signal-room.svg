@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="t d">
+<title id="t">Rohan Signal Room — software engineering profile</title>
+<desc id="d">Dark blue engineering dashboard illustration with connected nodes and decorative radar waves.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1323"/><stop offset="1" stop-color="#07101D"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5EF2D2"/><stop offset="1" stop-color="#74B9FF"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#163047" stroke-width="1"/></pattern>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect width="1200" height="370" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="370" fill="url(#bg)"/>
+<rect width="1200" height="370" fill="url(#grid)" opacity=".54"/>
+<rect x="31" y="27" width="1138" height="316" rx="13" fill="none" stroke="#274459"/>
+<rect x="32" y="28" width="1136" height="39" rx="12" fill="#102236"/>
+<rect x="32" y="57" width="1136" height="10" fill="#102236"/>
+<circle cx="57" cy="48" r="5" fill="#FF746E"/><circle cx="75" cy="48" r="5" fill="#F5C35D"/><circle cx="93" cy="48" r="5" fill="#65DFA4"/>
+<text x="119" y="53" fill="#9CB4CA" font-size="13" font-family="DejaVu Sans,Arial,sans-serif">rohan / engineering observatory</text>
+<circle cx="1062" cy="48" r="4" fill="#5EF2D2"/><text x="1075" y="53" fill="#86D9BF" font-size="12" font-family="DejaVu Sans,Arial,sans-serif">ONLINE</text>
+<text x="78" y="119" fill="#59DDBD" font-weight="bold" font-size="15" letter-spacing="3" font-family="DejaVu Sans,Arial,sans-serif">SIGNAL ROOM  /  001</text>
+<text x="76" y="177" fill="#F2F8FD" font-weight="bold" font-size="44" font-family="DejaVu Sans,Arial,sans-serif">ARIFUL HAQUE</text>
+<text x="76" y="229" fill="#F2F8FD" font-weight="bold" font-size="44" font-family="DejaVu Sans,Arial,sans-serif">ROHAN<span fill="#5EF2D2">_</span></text>
+<text x="79" y="268" fill="#8AC7E9" font-size="18" font-family="DejaVu Sans,Arial,sans-serif">SOFTWARE ENGINEER  /  BACKEND + FULL-STACK</text>
+<text x="79" y="313" fill="#9CAFC3" font-size="15" font-family="DejaVu Sans,Arial,sans-serif">Building the systems behind the interface.</text>
+<path d="M775 135 C875 94 940 90 1091 134" fill="none" stroke="#31516B" stroke-width="1.5"/>
+<path d="M775 184 C873 140 998 146 1117 177" fill="none" stroke="#31516B" stroke-width="1.5"/>
+<path d="M760 255 C849 217 975 224 1124 260" fill="none" stroke="#31516B" stroke-width="1.5"/>
+<circle cx="939" cy="207" r="110" fill="none" stroke="#234B60" stroke-width="1"/>
+<circle cx="939" cy="207" r="75" fill="none" stroke="#2D5B70" stroke-width="1"/>
+<circle cx="939" cy="207" r="40" fill="none" stroke="#367489" stroke-width="1"/>
+<path d="M829 207H1049M939 97V317" stroke="#2C566C" stroke-width="1"/>
+<path d="M939 207L1007 144" stroke="#5EF2D2" stroke-width="2" filter="url(#glow)"/>
+<circle cx="939" cy="207" r="8" fill="#5EF2D2"/>
+<circle cx="1007" cy="144" r="6" fill="#75BDFF"/>
+<circle cx="829" cy="207" r="5" fill="#5EF2D2"/>
+<circle cx="1002" cy="294" r="5" fill="#75BDFF"/>
+<path d="M755 304h25l8-16 13 33 13-24 9 7h18l10-32 16 57 12-25h17l8-13 10 21 10-8h44l8-18 13 30 12-12h28" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="774" y="115" fill="#90A9C0" font-size="11" letter-spacing="1.7" font-family="DejaVu Sans,Arial,sans-serif">ARCHITECTURE / SIGNAL / DATA</text>
+</g>
+</svg>
