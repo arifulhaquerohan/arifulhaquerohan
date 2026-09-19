@@ -1,67 +1,176 @@
 
-# Hi there, I'm Ariful Haque Rohan 👋
+# Ariful Haque Rohan
 
-### Software Engineer | Full-Stack Developer
+**Software Engineer · Full-Stack Developer · Backend Enthusiast**
 
-I'm a software engineer from Dhaka, Bangladesh,
-passionate about building scalable web applications,
-REST APIs, and reliable backend systems.
+> I build the systems behind the interface.
 
-## 👨‍💻 About Me
+```bash
+rohan@github:~$ whoami
 
-- 💼 Developer at Bangla Sketch (2025–Present)
-- 🎓 B.Sc. in CSE from BUBT
-- 🔭 Building full-stack applications with Django & React
-- 🌱 Interested in system design and machine learning
-- 🧠 Solved 100+ algorithmic problems on Codeforces
-- 🐧 Linux enthusiast
+Name       : Ariful Haque Rohan
+Location   : Dhaka, Bangladesh
+Role       : Software Engineer
+Focus      : Backend Engineering & System Design
+Current    : Developer @ Bangla Sketch
+Education  : B.Sc. in CSE, BUBT
+```
 
-## 🛠️ Tech Stack
+---
 
-**Languages:** Python, C++, JavaScript, SQL
+## 01 / THE DEVELOPER
 
-**Frontend:** React, Next.js, Tailwind CSS
+I'm a software engineer who enjoys turning complex
+problems into practical software.
 
-**Backend:** Django, Django REST Framework, REST APIs
+My work focuses on building REST APIs, designing
+databases, and developing full-stack applications
+that solve real-world problems.
 
-**Database:** PostgreSQL
+I enjoy working close to the backend, where
+architecture, performance, and reliability matter.
 
-**Tools:** Git, Docker, Linux, Cloudinary
+---
 
-**Machine Learning:** scikit-learn, pandas
+## 02 / THE TOOLBOX
 
-## 🚀 Featured Projects
+```text
+LANGUAGES
+├── Python
+├── C++
+├── JavaScript
+└── SQL
 
-### 🏠 Interior Business Management Platform
+BACKEND
+├── Django
+├── Django REST Framework
+└── REST APIs
 
-A full-stack platform for managing interior design
-projects, client portals, and media galleries.
+FRONTEND
+├── React / Next.js
+└── Tailwind CSS
 
-**Stack:** Next.js, Django, PostgreSQL, Cloudinary, JWT
+DATA & INFRASTRUCTURE
+├── PostgreSQL
+├── Docker
+├── Git
+├── Linux
+└── Cloudinary
 
-[View Bangla Sketch](https://github.com/arifulhaquerohan/banglasketch)
+MACHINE LEARNING
+├── scikit-learn
+└── pandas
+```
 
-### 🌦️ Weather Prediction Using Machine Learning
+---
 
-Rainfall classification and temperature regression
-using historical weather data from Bangladesh.
+## 03 / PROJECT DIRECTORY
 
-**Stack:** Python, scikit-learn, pandas, PostgreSQL
+### 001 — Bangla Sketch
 
-- 3,271 weather records
-- Reported classification accuracy: 82%
-- Feature engineering, preprocessing, and PCA
+**Interior Business Management Platform**
 
-## 💼 Experience
+A full-stack platform built to manage interior
+design projects and client interactions.
 
-**Developer — Bangla Sketch | 2025–Present**
+```yaml
+frontend: Next.js
+backend: Django
+database: PostgreSQL
+authentication: JWT
+media: Cloudinary
+```
 
-Building REST APIs, database models, and full-stack
-web application features.
+**Engineering highlights**
 
-## 📫 Connect With Me
+- REST API and database development
+- Role-based access control
+- Admin and client portals
+- Project status tracking
+- Image upload and media management
 
-- GitHub: [arifulhaquerohan](https://github.com/arifulhaquerohan)
-- Email: arifulhaquerohan@gmail.com
+[Explore the repository →](https://github.com/arifulhaquerohan/banglasketch)
 
-Thanks for visiting my profile!
+---
+
+### 002 — Weather Prediction
+
+**Machine Learning on Bangladesh Weather Data**
+
+Exploring rainfall classification and
+temperature regression using historical data.
+
+```text
+Dataset           3,271 records
+Period            2013–2022
+Classification    82% reported accuracy
+Tech              Python, scikit-learn, pandas
+```
+
+**What I worked on**
+
+- Data preprocessing and feature engineering
+- Classification and regression models
+- Ensemble methods
+- Feature scaling and PCA
+
+---
+
+### 003 — Other Experiments
+
+Smaller projects exploring application
+development and practical software tools.
+
+[Text File Translator →](https://github.com/arifulhaquerohan/text-file-translator)
+
+[Image to PDF →](https://github.com/arifulhaquerohan/image_to_pdf_flutter_app)
+
+---
+
+## 04 / ENGINEERING WORKFLOW
+
+How I approach building software:
+
+```text
+Understand the problem
+        |
+        v
+Design the architecture
+        |
+        v
+Build the API & database
+        |
+        v
+Connect the interface
+        |
+        v
+Test, improve, repeat
+```
+
+---
+
+## 05 / BEYOND THE CODE
+
+**Problem solving**
+
+Solved 100+ algorithmic problems on Codeforces
+and participated in university programming contests.
+
+**Interests**
+
+Backend architecture, database design,
+machine learning, and Linux.
+
+---
+
+## 06 / CONNECT
+
+Open to conversations about software engineering,
+backend development, and interesting projects.
+
+[GitHub](https://github.com/arifulhaquerohan) ·
+[Email](mailto:arifulhaquerohan@gmail.com)
+
+---
+
+<sub>Built with curiosity. Improved with every commit.</sub>
