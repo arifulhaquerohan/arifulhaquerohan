@@ -1,61 +1,74 @@
 <div align="center">
-  <img src="./assets/signal-room.svg" alt="Rohan Signal Room — Ariful Haque Rohan, software engineer" width="100%" />
-  <br />
-  <a href="https://github.com/arifulhaquerohan?tab=repositories">Explore my repositories</a> ·
-  <a href="mailto:arifulhaquerohan@gmail.com">Contact me</a>
+  <img src="./assets/signal-room.svg" width="100%" alt="Ariful Haque Rohan — Engineering Atlas. Thoughtful interfaces. Dependable systems. Software engineer in Dhaka, Bangladesh." />
+  <br /><br />
+  <a href="https://github.com/arifulhaquerohan?tab=repositories"><strong>Explore my code ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:arifulhaquerohan@gmail.com"><strong>Get in touch ↗</strong></a>
 </div>
 
 <br />
 
-### `> identity --read`
+### 01 / The person behind the code
 
-I'm **Ariful Haque Rohan**, a software engineer in Dhaka. I work across backend APIs, databases, and interfaces, with a particular interest in reliable systems and practical machine-learning applications.
+I'm **Ariful Haque Rohan**, a software engineer based in **Dhaka, Bangladesh**. I build across the stack, with a particular interest in the work behind the interface: APIs, data models, and systems that make a product useful.
 
-```text
-ROLE       Software Engineer / Full-Stack Developer
-CURRENT    Developer at Bangla Sketch · 2025–present
-STUDIED    B.Sc. Computer Science & Engineering · BUBT
-FOCUS      Django · REST APIs · PostgreSQL · system design
-```
+My toolkit centers on **Python, Django, and PostgreSQL**, with **React and Next.js** on the frontend. I also explore practical machine learning, especially when it connects to local, real-world data.
 
-### `> systems --inspect`
+**Experience** &nbsp; Developer at Bangla Sketch · since 2025  
+**Education** &nbsp; B.Sc. in Computer Science & Engineering · BUBT
 
-**01 — Bangla Sketch** · Interior business management platform
+<br />
 
-I work on full-stack features, REST endpoints, database models, and integrations. The project includes project tracking, admin/client access, and media management.
+### 02 / Selected work
 
-<img src="./assets/system-map.svg" alt="Conceptual Bangla Sketch architecture: Next.js, Django REST, PostgreSQL, JWT access control, and Cloudinary" width="100%" />
+#### Bangla Sketch ↗
+**Business software for an interior design workflow.**
 
-[Explore Bangla Sketch →](https://github.com/arifulhaquerohan/banglasketch)
+Full-stack work spanning project tracking, admin and client access, and media management. My contributions cover REST endpoints, database models, interfaces, and integrations.
 
-**02 — Weather prediction** · Machine-learning study
+<img src="./assets/system-map.svg" width="100%" alt="Bangla Sketch conceptual architecture: a Next.js interface connects to a Django REST API; the API connects to PostgreSQL for data, JWT for access control, and Cloudinary for media." />
 
-Rainfall classification and temperature regression on **3,271 Bangladesh weather records (2013–2022)**, using Python, scikit-learn, pandas, and PostgreSQL. My resume reports **82% classification accuracy**; the dataset split and evaluation method should accompany the code when I publish the project.
-
-**03 — Smaller builds** · Practical applications
-
-[Text File Translator →](https://github.com/arifulhaquerohan/text-file-translator) &nbsp;·&nbsp; [Image to PDF →](https://github.com/arifulhaquerohan/image_to_pdf_flutter_app)
-
-### `> stack --list`
-
-| Area | Tools I work with |
-| :-- | :-- |
-| **Backend** | Python · Django · Django REST Framework · REST APIs |
-| **Data** | PostgreSQL · SQL · database design |
-| **Interface** | JavaScript · React · Next.js · Tailwind CSS |
-| **Workflow** | Git · Docker · Linux · Cloudinary |
-| **Exploration** | C++ · scikit-learn · pandas |
-
-### `> activity --visualize`
-
-<!-- The workflow in .github/workflows/metrics.yml creates this file. -->
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub profile metrics, isometric contributions and repository language statistics" width="100%" />
-  <sub>Generated from my public GitHub activity with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>. The graphic appears after its first successful workflow run.</sub>
-</div>
+**Next.js · Django REST Framework · PostgreSQL · Cloudinary**  
+[View the repository →](https://github.com/arifulhaquerohan/banglasketch)
 
 ---
 
-<div align="center">
-  <sub>R / SIGNAL ROOM &nbsp;·&nbsp; Build thoughtfully. Ship reliably. Keep learning.</sub>
-</div>
+#### Weather prediction in Bangladesh
+**Exploring weather patterns through machine learning.**
+
+A study of **3,271 weather records from 2013–2022**, covering rainfall classification and temperature regression. It brings together data preparation, model experimentation, and analysis with Python.
+
+**Python · scikit-learn · pandas · PostgreSQL**
+
+---
+
+#### Small tools, practical problems
+
+| Project | Focus |
+| :--- | :--- |
+| [**Text File Translator ↗**](https://github.com/arifulhaquerohan/text-file-translator) | Text-file translation |
+| [**Image to PDF ↗**](https://github.com/arifulhaquerohan/image_to_pdf_flutter_app) | Image-to-PDF conversion with Flutter |
+
+<br />
+
+### 03 / Working toolkit
+
+| Layer | Tools |
+| :--- | :--- |
+| **APIs & backend** | Python · Django · Django REST Framework |
+| **Data & storage** | PostgreSQL · SQL · database design |
+| **Web interfaces** | JavaScript · React · Next.js · Tailwind CSS |
+| **Development** | Git · Docker · Linux · Cloudinary |
+| **Exploration** | C++ · scikit-learn · pandas |
+
+<br />
+
+### 04 / Let's connect
+
+Have a project involving backend systems, a full-stack product, or an interesting dataset? I'd be glad to talk.
+
+**[arifulhaquerohan@gmail.com ↗](mailto:arifulhaquerohan@gmail.com)**
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="From Dhaka, with intent. Build thoughtfully. Keep learning." />
