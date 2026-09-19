@@ -1,125 +1,90 @@
 
+<div align="center">
+
 # Ariful Haque Rohan
 
-**Software Engineer · Full-Stack Developer · Backend Enthusiast**
+### Software Engineer · Backend & Full-Stack Developer
 
-> I build the systems behind the interface.
+Building the systems behind the interface.
 
-```bash
-rohan@github:~$ whoami
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/arifulhaquerohan)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arifulhaquerohan@gmail.com)
 
-Name       : Ariful Haque Rohan
-Location   : Dhaka, Bangladesh
-Role       : Software Engineer
-Focus      : Backend Engineering & System Design
-Current    : Developer @ Bangla Sketch
-Education  : B.Sc. in CSE, BUBT
-```
+</div>
 
 ---
 
-## 01 / THE DEVELOPER
+### 👋 About me
 
-I'm a software engineer who enjoys turning complex
-problems into practical software.
+I'm a software engineer based in Dhaka, Bangladesh.
 
-My work focuses on building REST APIs, designing
-databases, and developing full-stack applications
-that solve real-world problems.
+I build full-stack applications, REST APIs, and database
+systems, with a strong interest in backend architecture,
+performance, and reliable software.
 
-I enjoy working close to the backend, where
-architecture, performance, and reliability matter.
-
----
-
-## 02 / THE TOOLBOX
-
-```text
-LANGUAGES
-├── Python
-├── C++
-├── JavaScript
-└── SQL
-
-BACKEND
-├── Django
-├── Django REST Framework
-└── REST APIs
-
-FRONTEND
-├── React / Next.js
-└── Tailwind CSS
-
-DATA & INFRASTRUCTURE
-├── PostgreSQL
-├── Docker
-├── Git
-├── Linux
-└── Cloudinary
-
-MACHINE LEARNING
-├── scikit-learn
-└── pandas
-```
+- 💼 Developer at Bangla Sketch
+- 🎓 B.Sc. in Computer Science and Engineering, BUBT
+- 🐧 Linux enthusiast
+- 🧠 Interested in system design and machine learning
 
 ---
 
-## 03 / PROJECT DIRECTORY
+### 📊 My GitHub, visualized
 
-### 001 — Bangla Sketch
+<div align="center">
 
-**Interior Business Management Platform**
+<img src="./github-metrics.svg"
+     alt="GitHub activity, isometric calendar and languages"
+     width="100%">
 
-A full-stack platform built to manage interior
-design projects and client interactions.
+</div>
 
-```yaml
-frontend: Next.js
-backend: Django
-database: PostgreSQL
-authentication: JWT
-media: Cloudinary
-```
+<sub>
+Automatically generated using
+<a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.
+</sub>
 
-**Engineering highlights**
+---
+
+### ⚙️ Technology stack
+
+| Area | Technologies |
+|:---|:---|
+| Languages | Python, C++, JavaScript, SQL |
+| Backend | Django, Django REST Framework |
+| Frontend | React, Next.js, Tailwind CSS |
+| Database | PostgreSQL |
+| Tools | Docker, Git, Linux, Cloudinary |
+| Machine Learning | scikit-learn, pandas |
+
+---
+
+### 🚀 Selected work
+
+#### 01 — Bangla Sketch
+
+Full-stack interior design management platform.
+
+`Next.js` `Django` `PostgreSQL` `JWT` `Cloudinary`
 
 - REST API and database development
 - Role-based access control
 - Admin and client portals
-- Project status tracking
-- Image upload and media management
+- Project tracking and media management
 
-[Explore the repository →](https://github.com/arifulhaquerohan/banglasketch)
+[Explore repository →](https://github.com/arifulhaquerohan/banglasketch)
 
----
+#### 02 — Weather Prediction
 
-### 002 — Weather Prediction
+Machine learning on historical Bangladesh weather data.
 
-**Machine Learning on Bangladesh Weather Data**
+`Python` `scikit-learn` `pandas` `PostgreSQL`
 
-Exploring rainfall classification and
-temperature regression using historical data.
+- Rainfall classification and temperature regression
+- 3,271 records covering 2013–2022
+- Reported classification accuracy: 82%
 
-```text
-Dataset           3,271 records
-Period            2013–2022
-Classification    82% reported accuracy
-Tech              Python, scikit-learn, pandas
-```
-
-**What I worked on**
-
-- Data preprocessing and feature engineering
-- Classification and regression models
-- Ensemble methods
-- Feature scaling and PCA
-
----
-
-### 003 — Other Experiments
-
-Smaller projects exploring application
-development and practical software tools.
+#### 03 — Other projects
 
 [Text File Translator →](https://github.com/arifulhaquerohan/text-file-translator)
 
@@ -127,50 +92,10 @@ development and practical software tools.
 
 ---
 
-## 04 / ENGINEERING WORKFLOW
+<div align="center">
 
-How I approach building software:
+**Build. Learn. Improve. Repeat.**
 
-```text
-Understand the problem
-        |
-        v
-Design the architecture
-        |
-        v
-Build the API & database
-        |
-        v
-Connect the interface
-        |
-        v
-Test, improve, repeat
-```
+<sub>Thanks for visiting my little corner of GitHub.</sub>
 
----
-
-## 05 / BEYOND THE CODE
-
-**Problem solving**
-
-Solved 100+ algorithmic problems on Codeforces
-and participated in university programming contests.
-
-**Interests**
-
-Backend architecture, database design,
-machine learning, and Linux.
-
----
-
-## 06 / CONNECT
-
-Open to conversations about software engineering,
-backend development, and interesting projects.
-
-[GitHub](https://github.com/arifulhaquerohan) ·
-[Email](mailto:arifulhaquerohan@gmail.com)
-
----
-
-<sub>Built with curiosity. Improved with every commit.</sub>
+</div>
