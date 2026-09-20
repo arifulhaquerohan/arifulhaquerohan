@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
 <title id="title">Dhaka time snapshot and 2026 progress</title>
-<desc id="desc">Updated 20 September 2026 at 18:10 in Dhaka, UTC plus six. Year 72.0% complete, 103 calendar days until January 1. Scheduled hourly; this is not a live clock.</desc>
+<desc id="desc">Updated 20 September 2026 at 18:14 in Dhaka, UTC plus six. Year 72.0% complete, 103 calendar days until January 1. Saved snapshot; this is not a live clock.</desc>
 <rect x="1" y="1" width="1198" height="308" rx="18" fill="#090e1b" stroke="#2c3d56"/>
 <g font-family="Arial, Helvetica, sans-serif">
 <circle cx="48" cy="37" r="5" fill="#50f5e9"/>
-<text x="64" y="42" font-size="12" letter-spacing="2" fill="#50f5e9">LOCAL TIME / DHAKA</text>
+<text x="64" y="42" font-size="12" letter-spacing="2" fill="#50f5e9">TIME SNAPSHOT / DHAKA</text>
 <text x="1156" y="42" text-anchor="end" font-size="12" fill="#9aabc6">BANGLADESH · UTC +06:00</text>
 <path d="M42 64H1158M445 88V181M829 88V181" stroke="#27364c"/>
-<text x="42" y="143" font-family="monospace" font-size="66" font-weight="700" fill="#eef5ff">18:10</text>
+<text x="42" y="143" font-family="monospace" font-size="66" font-weight="700" fill="#eef5ff">18:14</text>
 <text x="45" y="177" font-size="16" fill="#9aabc6">Sunday · 20 September 2026</text>
 <text x="486" y="109" font-size="12" letter-spacing="2" fill="#9aabc6">YEAR IN MOTION</text>
 <text x="482" y="161" font-size="46" font-weight="700" fill="#50f5e9">72.0%</text>
@@ -15,6 +15,6 @@
 <text x="867" y="161" font-size="46" font-weight="700" fill="#ef5bc5">103<tspan font-size="20" fill="#9aabc6"> days</tspan></text>
 <text x="42" y="226" font-size="12" letter-spacing="2" fill="#c9d7ed">2026 / MAKE THE DAYS COUNT</text>
 <rect x="42" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="70" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="98" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="126" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="154" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="182" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="210" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="238" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="266" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="294" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="322" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="350" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="378" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="406" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="434" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="462" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="490" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="518" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="546" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="574" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="602" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="630" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="658" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="686" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="714" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="742" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="770" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="798" y="249" width="21" height="10" rx="3" fill="#50f5e9"/><rect x="826" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="854" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="882" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="910" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="938" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="966" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="994" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="1022" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="1050" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="1078" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="1106" y="249" width="21" height="10" rx="3" fill="#213149"/><rect x="1134" y="249" width="21" height="10" rx="3" fill="#213149"/>
-<text x="42" y="289" font-size="12" fill="#9aabc6">SNAPSHOT · 2026-09-20 18:10 DHAKA · SCHEDULED HOURLY</text>
+<text x="42" y="289" font-size="12" fill="#9aabc6">SNAPSHOT · 2026-09-20 18:14 DHAKA · SAVED SNAPSHOT</text>
 <text x="1156" y="289" text-anchor="end" font-size="12" fill="#9aabc6">BUILD. LEARN. ITERATE.</text>
 </g></svg>

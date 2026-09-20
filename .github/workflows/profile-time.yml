@@ -1,13 +1,8 @@
 name: Refresh profile time
+# Automatic triggers are paused while account billing blocks hosted runners.
+# See docs/profile-time.md for manual updates and restoration instructions.
 on:
-  schedule:
-    - cron: '17 * * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - scripts/update_time.py
-      - .github/workflows/profile-time.yml
 permissions:
   contents: write
 concurrency:
@@ -15,7 +10,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - name: Render Dhaka time and year progress

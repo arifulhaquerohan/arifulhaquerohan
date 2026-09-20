@@ -8,9 +8,9 @@
 
 <br />
 
-<img src="./assets/time-panel.svg" width="100%" alt="Dhaka time snapshot, year progress, and days until the next year. Refreshed on an hourly schedule." />
+<img src="./assets/time-panel.svg" width="100%" alt="Dhaka time snapshot, year progress, and days until the next year. Saved at the timestamp shown." />
 
-<sub>Time is a scheduled snapshot in Asia/Dhaka (UTC+06:00). GitHub Actions runs hourly; updates and image caching can be delayed.</sub>
+<sub>Time is a saved snapshot in Asia/Dhaka (UTC+06:00), captured at the timestamp shown; it does not update live.</sub>
 
 <br />
 
