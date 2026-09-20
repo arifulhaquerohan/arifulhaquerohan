@@ -8,6 +8,12 @@
 
 <br />
 
+<img src="./assets/time-panel.svg" width="100%" alt="Dhaka time snapshot, year progress, and days until the next year. Refreshed on an hourly schedule." />
+
+<sub>Time is a scheduled snapshot in Asia/Dhaka (UTC+06:00). GitHub Actions runs hourly; updates and image caching can be delayed.</sub>
+
+<br />
+
 ### `00` / Human behind the system
 
 I'm **Ariful Haque Rohan**, a software engineer based in **Dhaka, Bangladesh**. I build across the stack, with a particular interest in the work behind the interface: APIs, data models, and systems that make a product useful.
@@ -55,7 +61,15 @@ A study of **3,271 weather records from 2013–2022**, covering rainfall classif
 
 <br />
 
-### `02` / Loaded modules
+### `02` / How I build
+
+**01 / Understand the workflow** → **02 / Model the data** → **03 / Connect the API** → **04 / Make it usable**
+
+From a database relationship to the screen it powers, I care about how the pieces work together. My projects connect backend engineering, usable interfaces, and practical problems.
+
+<br />
+
+### `03` / Loaded modules
 
 | Layer | Tools |
 | :--- | :--- |
@@ -67,7 +81,7 @@ A study of **3,271 weather records from 2013–2022**, covering rainfall classif
 
 <br />
 
-### `03` / Open a channel
+### `04` / Open a channel
 
 Have a project involving backend systems, a full-stack product, or an interesting dataset? I'd be glad to talk.
 

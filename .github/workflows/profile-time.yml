@@ -1,0 +1,31 @@
+name: Refresh profile time
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_time.py
+      - .github/workflows/profile-time.yml
+permissions:
+  contents: write
+concurrency:
+  group: profile-time
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render Dhaka time and year progress
+        run: python3 scripts/update_time.py
+      - name: Commit refreshed snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/time-panel.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Dhaka time snapshot"
+            git push
+          fi
