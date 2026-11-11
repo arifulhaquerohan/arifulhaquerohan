@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/riverworks.svg" width="100%" alt="Ariful Haque Rohan — Riverworks. Full-stack developer in Dhaka. Good software connects." />
+  <img src="./assets/sakura-dusk.svg" width="100%" alt="Ariful Haque Rohan — Sakura at dusk. Japanese woodblock-inspired Mount Fuji landscape with cherry blossoms. Full-stack developer in Dhaka." />
   <br /><br />
   <p><strong>Full-stack developer in Dhaka, building business applications with Django, PostgreSQL, and Next.js.</strong></p>
   <a href="https://github.com/arifulhaquerohan?tab=repositories"><strong>Explore my code ↗</strong></a>
@@ -35,7 +35,7 @@ An application for project tracking, admin and client access, and media manageme
 
 **System overview**
 
-<img src="./assets/riverworks-map.svg" width="100%" alt="Bangla Sketch conceptual architecture: a Next.js interface connects to a Django REST API; the API connects to PostgreSQL for data, JWT for access control, and Cloudinary for media." />
+<img src="./assets/sakura-map.svg" width="100%" alt="Bangla Sketch conceptual architecture: a Next.js interface connects to a Django REST API; the API connects to PostgreSQL for data, JWT for access control, and Cloudinary for media." />
 
 **Next.js · Django REST Framework · PostgreSQL · Cloudinary**
 
@@ -87,4 +87,4 @@ Have a project involving backend systems, a full-stack product, or an interestin
 
 <br />
 
-<img src="./assets/riverworks-footer.svg" width="100%" alt="Built in Dhaka. Always learning. Rohan." />
+<img src="./assets/sakura-footer.svg" width="100%" alt="Built in Dhaka. Always learning. Rohan." />

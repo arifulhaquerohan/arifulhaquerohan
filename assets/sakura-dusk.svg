@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">Ariful Haque Rohan — Sakura at dusk</title>
+<desc id="desc">Japanese woodblock-inspired landscape with Mount Fuji, a vermilion sun, layered indigo hills, and a flowering cherry branch. A brief breeze carries petals across the scene. Full-stack developer in Dhaka.</desc>
+<defs>
+<clipPath id="frame"><rect width="1200" height="560" rx="16"/></clipPath>
+<pattern id="paper" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".6" fill="#d4d9df" opacity=".12"/><circle cx="6" cy="7" r=".5" fill="#080e25" opacity=".15"/></pattern>
+<g id="flower" fill="#f4cbd1"><ellipse cy="-8" rx="5" ry="8"/><ellipse cy="-8" rx="5" ry="8" transform="rotate(72)"/><ellipse cy="-8" rx="5" ry="8" transform="rotate(144)"/><ellipse cy="-8" rx="5" ry="8" transform="rotate(216)"/><ellipse cy="-8" rx="5" ry="8" transform="rotate(288)"/><circle r="3" fill="#c56877"/></g>
+</defs>
+<style>
+.petals{animation:breeze 4400ms cubic-bezier(.77,0,.175,1) both}.petals-late{animation:breeze 4000ms 250ms cubic-bezier(.77,0,.175,1) both}.sun{animation:rise 1800ms cubic-bezier(.23,1,.32,1) both;transform-origin:944px 175px}
+@keyframes breeze{0%{opacity:0;transform:translate(-42px,-22px)}18%{opacity:1}75%{opacity:1}100%{opacity:0;transform:translate(100px,130px)}}
+@keyframes rise{from{opacity:.35;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.petals,.petals-late{animation:none;opacity:.7}.sun{animation:none}}
+</style>
+<g clip-path="url(#frame)">
+<rect width="1200" height="560" fill="#18243e"/>
+<circle class="sun" cx="944" cy="175" r="81" fill="#d95e50"/>
+<g fill="none" stroke="#b9c4d0" opacity=".18" stroke-width="2"><path d="M651 128H837M1014 128H1200M700 147H826M1026 147H1172"/><path d="M720 255H1180M675 271H1100"/></g>
+<path d="M582 420L913 184L1203 422Z" fill="#637b99"/>
+<path d="M913 184L1042 422H1203Z" fill="#405575"/>
+<path d="M913 184L824 247L849 245L863 262L889 239L912 250L928 235L955 253L967 239L999 253Z" fill="#edf0ec"/>
+<path d="M0 461Q160 387 318 447T640 429Q754 365 882 422T1200 388V560H0Z" fill="#314f65"/>
+<path d="M0 503Q186 450 348 490T699 478Q875 416 1026 460T1200 444V560H0Z" fill="#243b52"/>
+<path d="M0 545Q189 501 381 538T763 521Q977 485 1200 523V560H0Z" fill="#102338"/>
+<g fill="none" stroke="#adbdc5" opacity=".25"><path d="M805 482Q923 459 1088 483M847 499Q985 478 1144 503M925 517Q1020 506 1100 520"/></g>
+<path d="M1206 16Q1102 77 1033 68T877 27M1116 58Q1103 105 1033 131M1064 68Q1019 104 968 100M1160 39Q1144 143 1180 187" fill="none" stroke="#0e182b" stroke-width="13" stroke-linecap="round"/>
+<path d="M1033 68L1008 40M1097 105L1092 132M965 43L939 65M1151 105L1116 152" fill="none" stroke="#0e182b" stroke-width="5" stroke-linecap="round"/>
+<use href="#flower" x="1008" y="40"/><use href="#flower" x="1033" y="131"/><use href="#flower" x="968" y="100"/><use href="#flower" x="939" y="65"/><use href="#flower" x="1092" y="132"/><use href="#flower" x="1116" y="152"/><use href="#flower" x="1180" y="187"/><use href="#flower" x="1157" y="71"/><use href="#flower" x="1064" y="68"/>
+<g class="petals" fill="#f4cbd1"><path d="M1001 169q18 -10 11 12q-15 5 -11 -12"/><path d="M843 87q18 1 4 18q-13 -3 -4 -18"/><path d="M1103 254q16 -10 11 9q-14 9 -11 -9"/></g>
+<g class="petals-late" fill="#e4a7b3"><path d="M934 300q17 -7 9 13q-14 4 -9 -13"/><path d="M748 227q18 1 4 18q-13 -3 -4 -18"/></g>
+<rect width="1200" height="560" fill="url(#paper)"/>
+<text x="56" y="71" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#f4cbd1">Software, thoughtfully built.</text>
+<g font-family="Georgia,'Times New Roman',serif" fill="#f3eee6"><text x="52" y="190" font-size="66">Ariful Haque</text><text x="50" y="289" font-size="103">Rohan.</text></g>
+<path d="M57 325H125" stroke="#d95e50" stroke-width="4"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="56" y="374" font-size="25" fill="#f3eee6">From data to everyday experiences.</text><text x="56" y="414" font-size="20" fill="#bbc9d5">Python / Django / PostgreSQL / Next.js</text><text x="56" y="508" font-size="18" fill="#d7e0e4">Full-stack developer · Dhaka, Bangladesh</text></g>
+</g></svg>
