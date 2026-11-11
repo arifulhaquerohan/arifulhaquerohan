@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./assets/signal-room.svg" width="100%" alt="Ariful Haque Rohan — System Archive. Software engineer in Dhaka. Behind every interface, a system." />
   <br /><br />
+  <p><strong>Full-stack developer in Dhaka, building business applications with Django, PostgreSQL, and Next.js.</strong></p>
   <a href="https://github.com/arifulhaquerohan?tab=repositories"><strong>Explore my code ↗</strong></a>
   &nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="mailto:arifulhaquerohan@gmail.com"><strong>Get in touch ↗</strong></a>
@@ -8,38 +9,35 @@
 
 <br />
 
-<img src="./assets/time-panel.svg" width="100%" alt="Dhaka time snapshot, year progress, and days until the next year. Saved at the timestamp shown." />
+### `00` / About
 
-<sub>Time is a saved snapshot in Asia/Dhaka (UTC+06:00), captured at the timestamp shown; it does not update live.</sub>
+I'm **Ariful Haque Rohan**. I build the APIs, data models, and interfaces that turn business workflows into usable software. My main tools are **Python, Django, PostgreSQL, React, and Next.js**.
 
-<br />
-
-### `00` / Human behind the system
-
-I'm **Ariful Haque Rohan**, a software engineer based in **Dhaka, Bangladesh**. I build across the stack, with a particular interest in the work behind the interface: APIs, data models, and systems that make a product useful.
-
-My toolkit centers on **Python, Django, and PostgreSQL**, with **React and Next.js** on the frontend. I also explore practical machine learning, especially when it connects to local, real-world data.
+I also explore practical machine learning with local data, including weather patterns in Bangladesh.
 
 **Experience** &nbsp; Developer at Bangla Sketch · since 2025  
 **Education** &nbsp; B.Sc. in Computer Science & Engineering · BUBT
 
 <br />
 
-<img src="./assets/timeline.svg" width="100%" alt="Timeline: B.Sc. CSE at BUBT; developer at Bangla Sketch since 2025; exploration in weather research and practical tools." />
+### `01` / Selected projects
 
-<br />
-
-### `01` / Project archive
-
-#### Bangla Sketch ↗
+#### Bangla Sketch
 **Business software for an interior design workflow.**
 
-Full-stack work spanning project tracking, admin and client access, and media management. My contributions cover REST endpoints, database models, interfaces, and integrations.
+An application for project tracking, admin and client access, and media management in an interior design business.
+
+**My contributions**
+
+- REST endpoints and database models supporting the application workflows.
+- Frontend interfaces for interacting with project information.
+- Integrations connecting the application with external services.
+
+**System overview**
 
 <img src="./assets/system-map.svg" width="100%" alt="Bangla Sketch conceptual architecture: a Next.js interface connects to a Django REST API; the API connects to PostgreSQL for data, JWT for access control, and Cloudinary for media." />
 
-**Next.js · Django REST Framework · PostgreSQL · Cloudinary**  
-[View the repository →](https://github.com/arifulhaquerohan/banglasketch)
+**Next.js · Django REST Framework · PostgreSQL · Cloudinary**
 
 ---
 
@@ -61,7 +59,7 @@ A study of **3,271 weather records from 2013–2022**, covering rainfall classif
 
 <br />
 
-### `02` / How I build
+### `02` / Approach
 
 **01 / Understand the workflow** → **02 / Model the data** → **03 / Connect the API** → **04 / Make it usable**
 
@@ -69,7 +67,7 @@ From a database relationship to the screen it powers, I care about how the piece
 
 <br />
 
-### `03` / Loaded modules
+### `03` / Tech stack
 
 | Layer | Tools |
 | :--- | :--- |
@@ -81,11 +79,24 @@ From a database relationship to the screen it powers, I care about how the piece
 
 <br />
 
-### `04` / Open a channel
+### `04` / Contact
 
 Have a project involving backend systems, a full-stack product, or an interesting dataset? I'd be glad to talk.
 
 **[arifulhaquerohan@gmail.com ↗](mailto:arifulhaquerohan@gmail.com)**
+
+<br />
+
+<details>
+<summary>Dhaka time snapshot</summary>
+
+<img src="./assets/time-panel.svg" width="100%" alt="Dhaka time snapshot, year progress, and days until the next year. Saved at the timestamp shown." />
+
+<sub>Time is a saved snapshot in Asia/Dhaka (UTC+06:00), captured at the timestamp shown; it does not update live.</sub>
+
+<br />
+
+</details>
 
 <br />
 
