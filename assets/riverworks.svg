@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+<title id="title">Ariful Haque Rohan — Riverworks</title>
+<desc id="desc">Full-stack developer in Dhaka. Mint river-like paths join together on a deep blue field, representing connected software systems.</desc>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}.streams{animation:arrive 1800ms cubic-bezier(.23,1,.32,1) both}.crossing{animation:arrive 1800ms 120ms cubic-bezier(.23,1,.32,1) both}.ripple{transform-origin:952px 294px;animation:ripple 2400ms 400ms cubic-bezier(.23,1,.32,1) both}
+@keyframes arrive{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+@keyframes ripple{from{opacity:0;transform:scale(.92)}50%{opacity:1}to{opacity:.45;transform:scale(1)}}
+@media(prefers-reduced-motion:reduce){.streams,.crossing,.ripple{animation:none}}
+</style>
+<defs><clipPath id="frame"><rect width="1200" height="540" rx="24"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="540" fill="#1238a5"/>
+<path d="M720 0H1200V540H790C920 410 640 220 720 0" fill="#1748bc"/>
+<g class="streams" fill="none" stroke="#b9f5d8" stroke-width="21">
+<path d="M773 -60V107C773 213 1047 172 1047 294S824 382 824 472V590"/>
+<path d="M823 -60V91C823 166 1097 150 1097 294S874 404 874 485V590"/>
+<path d="M873 -60V77C873 126 1147 125 1147 294S924 423 924 499V590"/>
+</g>
+<g class="crossing" fill="none" stroke="#71d6d4" stroke-width="11">
+<path d="M1230 42C1000 42 1010 120 1010 182S750 228 750 320S1100 422 1230 422"/>
+<path d="M1230 72C1040 72 1040 130 1040 182S780 250 780 320S1100 452 1230 452"/>
+</g>
+<circle class="ripple" cx="952" cy="294" r="100" fill="none" stroke="#f5f9ff" stroke-width="1" opacity=".45"/>
+<circle cx="952" cy="294" r="8" fill="#f5f9ff"/>
+<text x="56" y="65" font-size="21" fill="#b9f5d8">Rohan / Riverworks</text>
+<text x="54" y="178" font-size="62" font-weight="700" letter-spacing="-2" fill="#f5f9ff">Ariful Haque</text>
+<text x="51" y="271" font-size="100" font-weight="700" letter-spacing="-5" fill="#f5f9ff">Rohan.</text>
+<text x="56" y="341" font-size="28" fill="#f5f9ff">Good software connects.</text>
+<text x="56" y="380" font-size="21" fill="#c6d9ff">Data. Systems. People.</text>
+<path d="M56 430H632" stroke="#6384d3"/>
+<text x="56" y="473" font-size="19" fill="#f5f9ff">Full-stack developer</text>
+<text x="56" y="504" font-size="17" fill="#c6d9ff">Dhaka, Bangladesh</text>
+</g></svg>

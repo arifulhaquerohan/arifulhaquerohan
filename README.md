@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/signal-room.svg" width="100%" alt="Ariful Haque Rohan — System Archive. Software engineer in Dhaka. Behind every interface, a system." />
+  <img src="./assets/riverworks.svg" width="100%" alt="Ariful Haque Rohan — Riverworks. Full-stack developer in Dhaka. Good software connects." />
   <br /><br />
   <p><strong>Full-stack developer in Dhaka, building business applications with Django, PostgreSQL, and Next.js.</strong></p>
   <a href="https://github.com/arifulhaquerohan?tab=repositories"><strong>Explore my code ↗</strong></a>
@@ -9,7 +9,7 @@
 
 <br />
 
-### `00` / About
+### About
 
 I'm **Ariful Haque Rohan**. I build the APIs, data models, and interfaces that turn business workflows into usable software. My main tools are **Python, Django, PostgreSQL, React, and Next.js**.
 
@@ -20,7 +20,7 @@ I also explore practical machine learning with local data, including weather pat
 
 <br />
 
-### `01` / Selected projects
+### Selected projects
 
 #### Bangla Sketch
 **Business software for an interior design workflow.**
@@ -35,7 +35,7 @@ An application for project tracking, admin and client access, and media manageme
 
 **System overview**
 
-<img src="./assets/system-map.svg" width="100%" alt="Bangla Sketch conceptual architecture: a Next.js interface connects to a Django REST API; the API connects to PostgreSQL for data, JWT for access control, and Cloudinary for media." />
+<img src="./assets/riverworks-map.svg" width="100%" alt="Bangla Sketch conceptual architecture: a Next.js interface connects to a Django REST API; the API connects to PostgreSQL for data, JWT for access control, and Cloudinary for media." />
 
 **Next.js · Django REST Framework · PostgreSQL · Cloudinary**
 
@@ -59,15 +59,15 @@ A study of **3,271 weather records from 2013–2022**, covering rainfall classif
 
 <br />
 
-### `02` / Approach
+### Approach
 
-**01 / Understand the workflow** → **02 / Model the data** → **03 / Connect the API** → **04 / Make it usable**
+**Understand the workflow → Model the data → Connect the API → Make it usable**
 
 From a database relationship to the screen it powers, I care about how the pieces work together. My projects connect backend engineering, usable interfaces, and practical problems.
 
 <br />
 
-### `03` / Tech stack
+### Tech stack
 
 | Layer | Tools |
 | :--- | :--- |
@@ -79,7 +79,7 @@ From a database relationship to the screen it powers, I care about how the piece
 
 <br />
 
-### `04` / Contact
+### Contact
 
 Have a project involving backend systems, a full-stack product, or an interesting dataset? I'd be glad to talk.
 
@@ -87,17 +87,4 @@ Have a project involving backend systems, a full-stack product, or an interestin
 
 <br />
 
-<details>
-<summary>Dhaka time snapshot</summary>
-
-<img src="./assets/time-panel.svg" width="100%" alt="Dhaka time snapshot, year progress, and days until the next year. Saved at the timestamp shown." />
-
-<sub>Time is a saved snapshot in Asia/Dhaka (UTC+06:00), captured at the timestamp shown; it does not update live.</sub>
-
-<br />
-
-</details>
-
-<br />
-
-<img src="./assets/footer.svg" width="100%" alt="Built in Dhaka. Always learning. Rohan." />
+<img src="./assets/riverworks-footer.svg" width="100%" alt="Built in Dhaka. Always learning. Rohan." />
