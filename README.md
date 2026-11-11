@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cyber-core.svg" width="100%" alt="Ariful Haque Rohan — Cybernetic Core. Animated reactor and signal paths. Full-stack developer in Dhaka." />
+  <img src="./assets/cyber-core.svg" width="100%" alt="Ariful Haque Rohan. Animated reactor and signal paths. Full-stack developer in Dhaka." />
   <br /><br />
   <p><strong>Full-stack developer in Dhaka, building business applications with Django, PostgreSQL, and Next.js.</strong></p>
   <a href="https://github.com/arifulhaquerohan?tab=repositories"><strong>Explore my code ↗</strong></a>

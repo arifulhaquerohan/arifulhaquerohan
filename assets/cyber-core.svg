@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="550" viewBox="0 0 1200 550" role="img" aria-labelledby="title desc">
-<title id="title">Ariful Haque Rohan — Cybernetic Core</title><desc id="desc">Full-stack developer in Dhaka. A cyan reactor with counter-rotating rings and amber data signals illustrates the connection between interfaces, APIs, and data. Decorative animation does not indicate live system activity.</desc>
+<title id="title">Ariful Haque Rohan — Full-stack developer</title><desc id="desc">Full-stack developer in Dhaka. A cyan reactor with counter-rotating rings and amber data signals illustrates the connection between interfaces, APIs, and data. Decorative animation does not indicate live system activity.</desc>
 <defs><clipPath id="frame"><rect width="1200" height="550" rx="18"/></clipPath><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#183043" stroke-width=".7"/></pattern><radialGradient id="field"><stop stop-color="#104556" stop-opacity=".7"/><stop offset="1" stop-color="#07111d" stop-opacity="0"/></radialGradient></defs>
 <style>
 text{font-family:Arial,Helvetica,sans-serif}.outer,.inner{transform-origin:930px 261px}.outer{animation:orbit 24s linear infinite}.inner{animation:reverse-orbit 16s linear infinite}.signal{animation:signal 4200ms linear infinite}.signal.second{animation-delay:1400ms}.signal.third{animation-delay:2800ms}.core{animation:charge 4200ms cubic-bezier(.77,0,.175,1) infinite}
@@ -11,7 +11,7 @@ text{font-family:Arial,Helvetica,sans-serif}.outer,.inner{transform-origin:930px
 <g clip-path="url(#frame)"><rect width="1200" height="550" fill="#07111d"/><rect x="670" width="530" height="550" fill="url(#grid)"/><circle cx="930" cy="261" r="252" fill="url(#field)"/>
 <path d="M32 79V32H79M1121 32H1168V79M32 471V518H79M1121 518H1168V471" stroke="#347087" stroke-width="2" fill="none"/>
 <path d="M57 102H624" stroke="#20394a"/><path d="M57 102H173" stroke="#63e3ee" stroke-width="2"/>
-<text x="56" y="69" font-size="19" fill="#63e3ee">Rohan / Cybernetic Core</text>
+<text x="56" y="69" font-size="19" fill="#63e3ee">Rohan / Software engineer</text>
 <text x="53" y="193" font-size="63" font-weight="700" letter-spacing="-2" fill="#eef6fb">Ariful Haque</text><text x="49" y="286" font-size="103" font-weight="700" letter-spacing="-4" fill="#eef6fb">Rohan.</text>
 <text x="56" y="348" font-size="26" fill="#eef6fb">Engineering the connections.</text><text x="56" y="386" font-size="20" fill="#a6bece">Interfaces. APIs. Data.</text>
 <path d="M56 431H624" stroke="#20394a"/>
