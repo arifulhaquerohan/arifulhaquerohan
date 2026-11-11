@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Inside Bangla Sketch</title><desc id="desc">Conceptual architecture: Next.js connects to Django REST Framework, which connects to PostgreSQL, JWT access control, and Cloudinary media storage.</desc>
+<rect width="1200" height="350" rx="20" fill="#0b1928"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#eef6fb"><text x="40" y="53" font-size="26" font-weight="700">From interface to infrastructure</text><text x="40" y="82" font-size="17">Bangla Sketch / conceptual architecture</text></g>
+<g fill="none" stroke="#63e3ee" stroke-width="3"><path d="M286 209H420"/><path d="M704 209H762Q790 209 790 181V154Q790 130 820 130H870"/><path d="M704 209H870"/><path d="M762 209Q790 209 790 237V264Q790 288 820 288H870"/></g>
+<rect x="40" y="164" width="246" height="90" rx="12" fill="#174158"/><rect x="420" y="148" width="284" height="122" rx="12" fill="#174158"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#eef6fb"><text x="64" y="203" font-size="25" font-weight="700">Next.js</text><text x="64" y="231" font-size="17">Web interface</text><text x="446" y="192" font-size="25" font-weight="700">Django REST</text><text x="446" y="221" font-size="25" font-weight="700">Framework</text><text x="446" y="249" font-size="17">Application API</text></g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#eef6fb"><text x="891" y="125" font-size="23" font-weight="700">PostgreSQL</text><text x="891" y="151" font-size="17">Application data</text><text x="891" y="204" font-size="23" font-weight="700">JWT</text><text x="891" y="230" font-size="17">Access control</text><text x="891" y="283" font-size="23" font-weight="700">Cloudinary</text><text x="891" y="309" font-size="17">Media storage</text></g>
+<g fill="#174158"><circle cx="870" cy="130" r="5"/><circle cx="870" cy="209" r="5"/><circle cx="870" cy="288" r="5"/></g></svg>
