@@ -1,20 +1,21 @@
 <img src="./assets/profile-banner.svg" width="100%" alt="Ariful Haque Rohan — Full-stack developer. Python, Django, Flask. Dhaka, Bangladesh." />
 
-### Connect with me 🤝
+<p align="center">
+  <strong>Web applications, REST APIs, and practical machine learning.</strong><br />
+  Software engineer · Dhaka, Bangladesh
+</p>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifulhaquerohan@gmail.com)
-[![Website](https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xryz.online/)
-[![GitHub](https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifulhaquerohan?tab=repositories)
+<p align="center">
+  <a href="https://xryz.online/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="mailto:arifulhaquerohan@gmail.com"><img src="https://img.shields.io/badge/Email-242938?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
+  <a href="https://github.com/arifulhaquerohan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-242938?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+</p>
 
-### About me 👋
+### A little about me
 
-- 💻 Software engineer focused on web applications and REST APIs.
-- 🐍 Working with **Python, Django, Flask, PostgreSQL, and React**.
-- 🌦️ My projects include rainfall prediction using Bangladesh weather data.
-- 🏠 Building projects such as **FlatLand BD** and **BUBT Club Management**.
-- 📍 Based in **Dhaka, Bangladesh**.
+I'm **Rohan**, a software engineer working with **Python, Django, Flask, PostgreSQL, and React**. My projects include a real estate marketplace, a university club management app, and rainfall prediction using Bangladesh weather data.
 
-### Tech stack 🛠️
+### Tools I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -24,25 +25,37 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Featured projects 🚀
+### Selected work
 
-| Project | What it does |
+#### 🏠 [FlatLand BD ↗](https://github.com/arifulhaquerohan/FlatLand-BD)
+A real estate marketplace for Bangladesh, bringing together **flat listings and interior design studios**.
+
+- Search and filter listings; submit properties for admin review.
+- Manage listings, enquiries, and media through an admin console.
+- Deliver property images through Cloudinary.
+
+**Python · Flask · SQLAlchemy · Jinja2 · Cloudinary**
+
+| More projects | What you'll find |
 | :--- | :--- |
-| [**FlatLand BD ↗**](https://github.com/arifulhaquerohan/FlatLand-BD) | Real estate marketplace for Bangladesh, with property listings and interior design studios. |
-| [**Weather Prediction Model ↗**](https://github.com/arifulhaquerohan/Weather-Prediction-Model) | Rainfall prediction with Bangladesh weather data and understandable risk explanations. |
-| [**BUBT Club Management ↗**](https://github.com/arifulhaquerohan/BUBT-Club-Management-System) | Club information, member registrations, and admin approvals in Flask. |
+| 🌦️ [**Weather Prediction Model ↗**](https://github.com/arifulhaquerohan/Weather-Prediction-Model) | Predicting next-day rain from Bangladesh weather data, with human-friendly risk explanations. |
+| 🎓 [**BUBT Club Management ↗**](https://github.com/arifulhaquerohan/BUBT-Club-Management-System) | A Python and Flask application for club registration, member approval, and complaint submission. |
 
-### GitHub activity 📊
+[Browse all repositories →](https://github.com/arifulhaquerohan?tab=repositories)
+
+### On GitHub
 
 <a href="https://github.com/arifulhaquerohan">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifulhaquerohan&theme=tokyonight" width="100%" alt="Ariful Haque Rohan's GitHub contribution activity" />
 </a>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifulhaquerohan&theme=tokyonight" width="48%" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifulhaquerohan&theme=tokyonight" width="48%" alt="Languages used across public repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifulhaquerohan&theme=tokyonight" width="48%" alt="Public GitHub statistics for arifulhaquerohan" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifulhaquerohan&theme=tokyonight" width="48%" alt="Repository count by language; this reflects project distribution, not proficiency" />
 </p>
 
----
+<p align="center">
+  <a href="mailto:arifulhaquerohan@gmail.com"><strong>Let's talk about your next project ↗</strong></a>
+</p>
 
-<p align="center"><strong>Have something in mind? <a href="mailto:arifulhaquerohan@gmail.com">Let's build it together ↗</a></strong></p>
+<img src="./assets/profile-footer.svg" width="100%" alt="A purple and cyan horizon beneath a starry sky" />

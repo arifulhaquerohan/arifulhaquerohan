@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-labelledby="title">
+<title id="title">A purple and cyan horizon beneath a starry sky</title>
+<defs><linearGradient id="sky"><stop stop-color="#100c2c"/><stop offset=".5" stop-color="#202064"/><stop offset="1" stop-color="#100b27"/></linearGradient><linearGradient id="line"><stop stop-color="#74f4ee"/><stop offset=".5" stop-color="#a29aff"/><stop offset="1" stop-color="#ec72cf"/></linearGradient></defs>
+<rect width="1200" height="90" rx="12" fill="url(#sky)"/>
+<path d="M0 69Q300 10 600 56T1200 39" fill="none" stroke="url(#line)" stroke-width="2"/>
+<path d="M0 78Q300 19 600 65T1200 48" fill="none" stroke="url(#line)" opacity=".2"/>
+<g fill="#b8c1ef"><circle cx="124" cy="25" r="1.5"/><circle cx="430" cy="15" r="1"/><circle cx="800" cy="29" r="1.5"/><circle cx="1090" cy="16" r="1"/></g></svg>
